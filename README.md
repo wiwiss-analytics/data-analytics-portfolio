@@ -2,7 +2,6 @@
 
 ## Overview
 This repository contains end-to-end data analytics projects demonstrating core data analyst skills across data collection, cleaning, analysis, visualization, and business decision-making.
-
 Projects use energy and ESG datasets as real-world case studies, but the methods and insights are fully transferable to operations, finance, supply chain, and general business analytics.
 
 ## Structure
