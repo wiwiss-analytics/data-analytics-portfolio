@@ -18,4 +18,4 @@ This repository contains end-to-end data analytics projects focused on energy sy
 - Business & ESG insights
 
 ## Focus
-Energy efficiency, ESG KPIs, operational performance, and decision support.
+operational performance, and decision support, Energy efficiency, ESG KPIS. 
